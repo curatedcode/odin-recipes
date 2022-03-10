@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+#title {
+    background-color: pink;
+    color: green;
+    text-align: center;
+}
+
+#bullets {
+    text-align: center;
+    background-color: grey;
+    list-style-position: inside;
+    padding-left: 0%;
+    background-position: 0%;
+}
+
+.beef,
+.spaghetti,
+.soup {
+    font-size: 24px;
+    font-family: Poppins, "Times New Roman", sans-serif;
+}
+
+.beef {
+    background-color: red;
+    color: lightblue;
+}
+.spaghetti {
+    background-color: yellow;
+    color: blue;
+}
+.soup {
+    background-color: blue;
+    color: yellow;
+}
